@@ -3,15 +3,15 @@
 </p>
 
 
-<p style="font-family: Source Serif Pro, Times, serif;" align="center">A <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Spring Boot</a> boilerplate by <a href="https://www.youtube.com/c/TeachingForDevelopment" target="_blank" rel="noopener noreferrer">Din Hercules</a> for building a web api.</p>
-<p  style="font-family: Source Serif Pro, Times, serif;" align="center">Hercules App Core by <a href="https://github.com/Din-Hercules">Din Hercules</a> is a Spring boot web api that build for Hercules App.</p>
+<p align="center">A <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Spring Boot</a> boilerplate by <a href="https://www.youtube.com/c/TeachingForDevelopment" target="_blank" rel="noopener noreferrer">Din Hercules</a> for building a web api.</p>
+<p align="center">Hercules App Core by <a href="https://github.com/Din-Hercules">Din Hercules</a> is a Spring boot web api that build for Hercules App.</p>
 <div align="center">
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="80" style="border-radius: 4px 4px 4px 4px; margin-right: 2px">
-<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width="115" style="border-radius: 4px 4px 4px 4px ; margin-right: 2px">
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" width="80" style="border-radius: 4px 4px 4px 4px; margin-right: 2px">
-<img src="https://img.shields.io/badge/-JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" width="80" style="border-radius: 4px 4px 4px 4px; margin-right: 2px">
-<img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=Spring&logoColor=white" width="110" style="border-radius: 4px 4px 4px 4px">
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="80">
+<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" width="80">
+<img src="https://img.shields.io/badge/-JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" width="80">
+<img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=Spring&logoColor=white" width="110">
 <br/>
-<img src="https://img.shields.io/badge/JDK-v17.0.7-blue" style="margin-top: 2px">
+<img src="https://img.shields.io/badge/JDK-v17.0.7-blue">
 <br/>
 </div>
